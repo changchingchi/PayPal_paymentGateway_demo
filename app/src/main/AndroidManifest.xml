@@ -54,10 +54,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".Checkout"
-            android:label="@string/title_activity_checkout" >
-        </activity>
+
     </application>
 
 </manifest>
